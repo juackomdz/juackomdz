@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Joaquín Méndez</h1>
 <h3 align="center">Ingeniero en informática, apasionado por el desarrollo y aprender nuevas tecnologías, buscando donde pueda desarrollarme personal y profesionalmente. Creativo y alegre con facilidad de aprendizaje y trabajo en equipo.</h3>
 
-- 🌱 Aprendiendo **Spring**
+- 🌱 Aprendiendo **Javascript**
 
 <h3 align="center">LinkedIn:</h3>
 <p align="center">
